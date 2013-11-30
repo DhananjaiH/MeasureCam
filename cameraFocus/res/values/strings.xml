@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CameraFocusActivity!</string>
+    <string name="app_name">MeasureCam</string>
+    <string-array name="units_array">
+        <item>Unit(mts.)</item>
+        <item>Unit(cms.)</item>
+        <item>Unit(ft.)</item>
+        <item>Unit(in.)</item>
+    </string-array>
+</resources>
